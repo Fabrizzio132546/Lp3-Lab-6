@@ -1,4 +1,4 @@
-package model;
+package Ejercicio2;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -20,3 +20,4 @@ public class Carrito {
         return items.stream().mapToDouble(ItemCarrito::getSubtotal).sum();
     }
 }
+
