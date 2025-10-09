@@ -1,4 +1,4 @@
-package model;
+package Ejercicio2;
 
 public class ItemCarrito {
     private Producto producto;
@@ -13,3 +13,4 @@ public class ItemCarrito {
     public int getCantidad() { return cantidad; }
     public double getSubtotal() { return producto.getPrecio() * cantidad; }
 }
+
