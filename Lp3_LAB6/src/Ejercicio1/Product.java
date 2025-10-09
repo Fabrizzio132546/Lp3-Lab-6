@@ -1,4 +1,4 @@
-package modelo;
+package Ejercicio1;
 
 public class Product {
     private final int id;
@@ -27,4 +27,5 @@ public class Product {
                               id, name, description, price, weight);
     }
 }
+
 
