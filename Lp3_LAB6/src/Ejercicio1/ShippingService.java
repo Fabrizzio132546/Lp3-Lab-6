@@ -1,4 +1,4 @@
-package service;
+package Ejercicio1;
 
 public class ShippingService {
     public double calculateShipping(double subtotal, double totalWeight) {
@@ -8,4 +8,5 @@ public class ShippingService {
         return base + weightSurcharge;
     }
 }
+
 
