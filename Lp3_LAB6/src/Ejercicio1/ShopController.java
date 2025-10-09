@@ -1,10 +1,4 @@
-package controller;
-
-import modelo.*;
-import repositorio.ProductRepository;
-import service.*;
-import view.ConsoleView;
-
+package Ejercicio1;
 import java.time.LocalDateTime;
 import java.util.*;
 
@@ -118,4 +112,5 @@ public class ShopController {
 
     private void verHistorial() { view.showOrderHistory(history); }
 }
+
 
