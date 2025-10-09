@@ -1,4 +1,4 @@
-package model;
+package Ejercicio2;
 
 import java.util.Arrays;
 import java.util.List;
@@ -16,3 +16,4 @@ public class RepositorioProductos {
         return productos.stream().filter(p -> p.getId() == id).findFirst().orElse(null);
     }
 }
+
