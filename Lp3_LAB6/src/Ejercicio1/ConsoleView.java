@@ -1,6 +1,4 @@
-package view;
-
-import modelo.*;
+package Ejercicio1;
 import java.util.*;
 
 public class ConsoleView {
@@ -60,4 +58,5 @@ public class ConsoleView {
         for (Order o : history) System.out.println(o);
     }
 }
+
 
