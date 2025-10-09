@@ -1,4 +1,4 @@
-package service;
+package Ejercicio1;
 
 import java.util.*;
 
@@ -20,4 +20,5 @@ public class DiscountService {
 
     public Set<String> availableCodes() { return codes.keySet(); }
 }
+
 
