@@ -1,4 +1,4 @@
-package model;
+package Ejercicio2;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -18,3 +18,4 @@ public class Orden {
     public double getTotal() { return total; }
     public List<ItemCarrito> getItems() { return items; }
 }
+
