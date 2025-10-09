@@ -1,4 +1,4 @@
-package model;
+package Ejercicio2;
 
 public class Producto {
     private int id;
@@ -15,4 +15,5 @@ public class Producto {
     public String getNombre() { return nombre; }
     public double getPrecio() { return precio; }
 }
+
 
