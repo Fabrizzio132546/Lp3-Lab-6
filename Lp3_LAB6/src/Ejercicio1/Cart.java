@@ -1,4 +1,4 @@
-package modelo;
+package Ejercicio1;
 import java.util.*;
 
 public class Cart {
@@ -33,4 +33,5 @@ public class Cart {
 
     public void clear() { items.clear(); }
 }
+
 
