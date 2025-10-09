@@ -1,7 +1,4 @@
-package controller;
-
-import model.*;
-import view.VistaConsola;
+package Ejercicio2;
 import java.util.*;
 
 public class ControladorPrincipal {
@@ -123,3 +120,4 @@ public class ControladorPrincipal {
         }
     }
 }
+
