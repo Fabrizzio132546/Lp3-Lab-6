@@ -1,4 +1,4 @@
-package model;
+package Ejercicio2;
 
 public class Reseña {
     private Producto producto;
@@ -15,4 +15,5 @@ public class Reseña {
     public String getComentario() { return comentario; }
     public int getCalificacion() { return calificacion; }
 }
+
 
