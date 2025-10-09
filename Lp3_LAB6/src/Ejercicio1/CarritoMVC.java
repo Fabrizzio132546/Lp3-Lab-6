@@ -1,9 +1,4 @@
-package menu;
-import controller.ShopController;
-import modelo.Cart;
-import repositorio.ProductRepository;
-import service.*;
-import view.ConsoleView;
+package Ejercicio1;
 
 public class CarritoMVC {
     public static void main(String[] args) {
@@ -16,4 +11,5 @@ public class CarritoMVC {
         controller.start();
     }
 }
+
 
