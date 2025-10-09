@@ -1,4 +1,4 @@
-package modelo;
+package Ejercicio1;
 
 public class CartItem {
     private final Product product;
@@ -14,4 +14,5 @@ public class CartItem {
     public void setQuantity(int q) { quantity = q; }
     public double getTotal() { return product.getPrice() * quantity; }
 }
+
 
