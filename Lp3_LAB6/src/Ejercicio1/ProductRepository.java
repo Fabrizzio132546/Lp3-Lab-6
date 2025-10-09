@@ -1,6 +1,4 @@
-package repositorio;
-
-import modelo.Product;
+package Ejercicio1;
 import java.util.*;
 
 public class ProductRepository {
@@ -24,4 +22,5 @@ public class ProductRepository {
 
     public Collection<Product> getAll() { return products.values(); }
 }
+
 
