@@ -1,4 +1,4 @@
-package modelo;
+package Ejercicio1;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
@@ -40,4 +40,5 @@ public class Order {
         return sb.toString();
     }
 }
+
 
