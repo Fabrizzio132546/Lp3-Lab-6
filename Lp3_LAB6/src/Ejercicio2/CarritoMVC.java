@@ -1,6 +1,4 @@
-package carromain;
-import controller.ControladorPrincipal;
-import view.VistaConsola;
+package Ejercicio2;
 
 public class CarritoMVC {
     public static void main(String[] args) {
@@ -9,4 +7,5 @@ public class CarritoMVC {
         controlador.iniciar();
     }
 }
+
 
