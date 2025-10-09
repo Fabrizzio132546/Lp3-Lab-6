@@ -1,4 +1,4 @@
-package view;
+package Ejercicio2;
 
 import java.util.Scanner;
 
@@ -36,3 +36,4 @@ public class VistaConsola {
         return Integer.parseInt(sc.nextLine());
     }
 }
+
