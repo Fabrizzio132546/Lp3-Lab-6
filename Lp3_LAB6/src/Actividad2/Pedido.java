@@ -1,4 +1,4 @@
-package act2;
+package Actividad2;
 
 public class Pedido {
     private String nombreplato;
@@ -25,3 +25,4 @@ public class Pedido {
         this.tipo = tipo;
     }
 }
+
