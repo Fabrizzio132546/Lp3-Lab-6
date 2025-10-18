@@ -1,4 +1,4 @@
-package act2;
+package Actividad2;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -62,3 +62,4 @@ public class PedidoModelo {
         return c;
     }
 }
+
