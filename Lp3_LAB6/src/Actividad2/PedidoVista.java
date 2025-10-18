@@ -1,4 +1,4 @@
-package act2;
+package Actividad2;
 
 import java.util.List;
 import java.util.Scanner;
@@ -80,3 +80,4 @@ public class PedidoVista {
         return sc.nextLine();
     }
 }
+
