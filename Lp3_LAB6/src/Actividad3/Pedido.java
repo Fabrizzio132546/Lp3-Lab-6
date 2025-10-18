@@ -1,4 +1,4 @@
-package act3;
+package Actividad3;
 
 public class Pedido {
     private String nombreplato;
@@ -35,3 +35,4 @@ public class Pedido {
         this.estado = estado;
     }
 }
+
