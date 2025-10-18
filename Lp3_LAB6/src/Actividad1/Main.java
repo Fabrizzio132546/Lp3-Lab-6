@@ -1,4 +1,4 @@
-package act1;
+package Actividad1;
 
 public class Main {
     public static void main(String[] args) {
@@ -8,3 +8,4 @@ public class Main {
         c.iniciar();
     }
 }
+
