@@ -1,4 +1,4 @@
-package act1;
+package Actividad1;
 
 public class Pedido {
     private String nombreplato;
@@ -15,3 +15,4 @@ public class Pedido {
         this.nombreplato = nombreplato;
     }
 }
+
