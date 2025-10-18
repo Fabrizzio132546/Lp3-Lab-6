@@ -1,4 +1,4 @@
-package act1;
+package Actividad1;
 
 import java.util.List;
 import java.util.Scanner;
@@ -46,3 +46,4 @@ public class PedidoVista {
         sc.close();
     }
 }
+
