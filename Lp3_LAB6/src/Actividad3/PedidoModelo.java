@@ -1,4 +1,4 @@
-package act3;
+package Actividad3;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -102,3 +102,4 @@ public class PedidoModelo {
         return historial;
     }
 }
+
