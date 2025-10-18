@@ -1,4 +1,4 @@
-package act2;
+package Actividad2;
 
 import java.util.List;
 
@@ -87,3 +87,4 @@ public class PedidoControlador {
         vista.cerrarscanner();
     }
 }
+
